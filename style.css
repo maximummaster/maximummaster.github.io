@@ -1,5 +1,6 @@
 body {
 	background: white url(images/roycebackground.jpg) repeat;
+	
 	font-size: 25px;
 	color: yellow;
 }
@@ -7,15 +8,18 @@ body {
 
 h1 {
 text-align: center;
-background: white url(images/titlebackground.jpg) repeat;
+background: white url(images/titlebackground.jpg);
 padding: 30px;
+}
+
+#logo{
+	
 }
 
 
 
-
 p {
-		color: red;
+		color: white;
 		background-color: purple;
 		font-family: "Times New Roman", sans-serif;
 		margin: 20px;
