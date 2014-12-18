@@ -7,7 +7,7 @@ body {
 
 h1 {
 text-align: center;
-border-style: dashed;
+background: white url(images/titlebackground) repeat;
 padding: 30px;
 }
 
