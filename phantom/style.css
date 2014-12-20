@@ -1,26 +1,45 @@
 body {
-	background: white url(images/roycebackground.jpg) repeat;
+	background: white url(images/roycebackground2.jpg) repeat;
 	font-size: 25px;
 	color: yellow;
 }
 
 
 h1 {
-color: black;
-text-align: center;
-padding: 30px;
+	background: white url(images/roycebackground.jpg) repeat;
+	color: black;
+	text-align: center;
+	padding: 30px;
 }
 
-#logo{
+.logo{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.wraith{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.ghost{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.phantom{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 
-
 p {
-		color: black;
+		text-align: center;
+		color: red;
 		font-family: "Times New Roman", sans-serif;
 		margin: 20px;
 }
@@ -38,5 +57,5 @@ nav a {
 }
 
 nav {
-	background-color: white;
+	background: white url(images/roycebackground.jpg) repeat;
 }
